@@ -1,6 +1,6 @@
 # SUP PROJECTS · Destek Botu
 
-Türkçe ticket (destek talebi) botu. Kod bilmeden kurulur, her şey sunucu içinden komutla ayarlanır.
+Türkçe, ücretsiz ticket (destek talebi) botu. Kod bilmeden kurulur, her şey sunucu içinden komutla ayarlanır.
 
 ## Özellikler
 
@@ -63,4 +63,16 @@ Bitti.
 
 ---
 
-SUP PROJECTS tarafından ücretsiz olarak paylaşılmıştır · [MIT lisansı](LICENSE)
+## Lisans
+
+[PolyForm Noncommercial 1.0.0](LICENSE.md). Kısaca:
+
+- ✅ Botu ücretsiz kullanabilir, kendi sunucunda çalıştırabilir, kodunu değiştirebilirsin.
+- ✅ Değiştirdiğin hali de ücretsiz paylaşabilirsin; lisans dosyasını ve telif satırını silmeden.
+- ❌ Botu ya da kodunu **satamazsın**, paralı bir hizmetin parçası yapamazsın.
+
+Ticari kullanım için SUP PROJECTS'ten izin al.
+
+---
+
+SUP PROJECTS tarafından ücretsiz olarak paylaşılmıştır.

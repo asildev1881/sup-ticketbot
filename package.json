@@ -6,8 +6,11 @@
   "scripts": {
     "start": "node --env-file=.env index.js"
   },
-  "engines": { "node": ">=20.6" },
+  "engines": {
+    "node": ">=20.6"
+  },
   "dependencies": {
     "discord.js": "^14.28.1"
-  }
+  },
+  "license": "PolyForm-Noncommercial-1.0.0"
 }
